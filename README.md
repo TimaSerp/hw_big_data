@@ -7,4 +7,4 @@
 
 # Lecture 03
 [Самостоятельная работа 1](https://colab.research.google.com/drive/1kS8DHv98seZlE4p575AWmp-gtB4dIdPL?usp=sharing)
-
+[Самостоятельная работа 2](https://colab.research.google.com/drive/15wqBm2oMPP5u7LxSLjjeVRUzDvmF-Tvr?usp=sharing)
